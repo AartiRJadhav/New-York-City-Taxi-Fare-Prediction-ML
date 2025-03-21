@@ -2,16 +2,11 @@
 
 Dataset: "New York City Taxi Fare Prediction" (Kaggle).
 
-More can be found [here](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/)
 
 ## Contributors
 
+Authir : Aaarti Jadhav
 
-[Nick Nikitas](https://github.com/nikoshet) 
-
-[Filippos Markolefas](https://github.com/filippos93)
-
-[Myron Sampsakis](https://github.com/sbmyron)
 
 
 ## Notebook Structure
